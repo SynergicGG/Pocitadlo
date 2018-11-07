@@ -1,2 +1,0 @@
-# Pocitadlo
-Created with CodeSandbox
